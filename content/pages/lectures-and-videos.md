@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provide lecture video, lecture audio, and slides from both
+  the Spring 2011 and Spring 2012 versions of the course.
 learning_resource_types:
 - Lecture Videos
 ocw_type: CourseSection
@@ -277,7 +279,7 @@ Development of standard terminology for global maternal and child health
 Jonathan Payne (Partners in Health)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 20b847cc-365a-3641-06f5-2c28eb051019 "Lecture slides (PDF)" %}}
+{{% resource_link 20b847cc-365a-3641-06f5-2c28eb051019 "Lecture slides (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 2012  
