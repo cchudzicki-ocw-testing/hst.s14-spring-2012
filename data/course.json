@@ -2,7 +2,8 @@
   "term": "Spring",
   "year": "2012",
   "level": [
-    "Graduate"
+    "Graduate",
+    "Undergraduate"
   ],
   "topics": [
     [
@@ -57,6 +58,6 @@
     "Lecture Notes",
     "Projects with Examples"
   ],
-  "site_uid": "0533a4ca-b034-4a95-95f5-82f64dcc1999",
+  "site_uid": "f00b2095-25f1-45c4-bc0a-2860fd38f818",
   "title": "Course Metadata"
 }
